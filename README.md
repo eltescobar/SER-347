@@ -1,4 +1,4 @@
-# SER-347 - Projeto Final (Teste)
+# SER-347 - Projeto Final
 
 
 Este repositório contém o código fonte do trabalho
